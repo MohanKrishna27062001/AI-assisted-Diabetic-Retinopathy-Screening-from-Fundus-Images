@@ -1,1 +1,1 @@
-# AI-assisted-Diabetic-Retinopathy-Screening-from-Fundus-Images
+# AI-assisted-Diabetic-Retinopathy-Screening
